@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 blablabla super
 =======
 trop naze, vivement le CLI !!!!
 >>>>>>> Jeremy
+=======
+Salut c'est modifié
+>>>>>>> Raphael
